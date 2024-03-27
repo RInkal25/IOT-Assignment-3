@@ -13,9 +13,9 @@ In this assignment, I am required to:
 ## Files Included
 1. **virtual_sensor.py**: This Python program represents the virtual environment IoT station. It periodically generates random virtual sensor values for temperature, humidity, and CO2 sensors.
 
-2. **latest_data.m**: This MATLAB code fetches and displays the latest sensor data values from the cloud-based IoT system.
+2. **Iot_assign_3_latest_data.m**: This MATLAB code fetches and displays the latest sensor data values from the cloud-based IoT system.
 
-3. **last_5_hours_data.m**: This MATLAB code fetches and displays the sensor data values received during the last five hours from the cloud-based IoT system.
+3. **Iot_assign_3_fiveHours_data.m**: This MATLAB code fetches and displays the sensor data values received during the last five hours from the cloud-based IoT system.
 
 4. **feed.json**: This JSON file contains data to be published to the ThingSpeak channel, representing the sensor data collected by the IoT system.
 
