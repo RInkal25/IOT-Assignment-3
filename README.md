@@ -22,4 +22,4 @@ In this assignment, I am required to:
 ## Cloud-based IoT Backend
 The cloud-based backend is implemented using ThingSpeak.
 
-Happy coding!
+
