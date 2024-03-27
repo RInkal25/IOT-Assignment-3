@@ -17,7 +17,7 @@ In this assignment, I am required to:
 
 3. **last_5_hours_data.m**: This MATLAB code fetches and displays the sensor data values received during the last five hours from the cloud-based IoT system.
 
-4. **thingspeak_publish.json**: This JSON file contains data to be published to the ThingSpeak channel, representing the sensor data collected by the IoT system.
+4. **feed.json**: This JSON file contains data to be published to the ThingSpeak channel, representing the sensor data collected by the IoT system.
 
 ## Cloud-based IoT Backend
 The cloud-based backend is implemented using ThingSpeak.
